@@ -10,6 +10,7 @@ function App() {
       <h3>This is Jaunpur</h3>
       <h4>Lest discuss</h4>
       <h5>This is last update</h5>
+      <h2>No more text should be added</h2>
       <Home />
         <h1>Welcome in React World!!</h1>
       </header>
